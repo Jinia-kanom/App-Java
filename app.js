@@ -10,3 +10,12 @@ var result = 4.94;
 var name = "Jinia Kanom";
 // console.log(name);
 console.log(name, "got GPA", result, "in SSC Exam");
+
+
+// console
+
+
+
+//git add .
+//git commit -m "comment"
+// git push
